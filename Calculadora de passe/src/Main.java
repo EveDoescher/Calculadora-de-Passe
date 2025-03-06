@@ -9,6 +9,11 @@ import java.time.format.DateTimeFormatter;
 public class Main {
 
     public static void main(String[] args){
+        System.out.println("Tarifa de onibus: 5,40 | Meia: 2,70");
+        System.out.println("EVELYNN");
+        System.out.println("Meia | Utiliza 2 passagens em dias comuns | Sexta, Sabado, Domingo: Nenhuma passagem. ");
+        System.out.println("RAFAELLA");
+        System.out.println("Meia | Utiliza 3 passagens em dias comuns | Quinta, Sexta, Sabado: 2 passagens | Domingo: Nenhuma passagem. ");
         Scanner scan = new Scanner(System.in);
         // Validaçao de nome
         System.out.println("Voce é Evelynn ou Rafaella?");
