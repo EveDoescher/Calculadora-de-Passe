@@ -2,6 +2,7 @@
 Esse sistema é uma calculadora de duração de crédito de passe de ônibus, que leva em consideração o perfil de consumo do usuário e o valor depositado. Ele foi desenvolvido em Java e funciona da seguinte forma:
 
 Funcionamento do Sistema:
+
 **Perfis de Consumo:**
 
 O sistema reconhece dois perfis de usuários: Evelynn e Rafaella.
